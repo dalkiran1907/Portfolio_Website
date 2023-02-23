@@ -1,3 +1,9 @@
+# Screenshots
+![screen1](https://github.com/dalkiran1907/Portfolio_Website/blob/main/Portfolio%20Website/src/assets/img/screen-1.png)
+![screen2](https://github.com/dalkiran1907/Portfolio_Website/blob/main/Portfolio%20Website/src/assets/img/screen-2.png)
+![screen3](https://github.com/dalkiran1907/Portfolio_Website/blob/main/Portfolio%20Website/src/assets/img/screen-3.png)
+![screen4](https://github.com/dalkiran1907/Portfolio_Website/blob/main/Portfolio%20Website/src/assets/img/screen-4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
